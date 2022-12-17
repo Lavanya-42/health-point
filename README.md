@@ -1,32 +1,69 @@
-# Health Point
-Hello all, I am Paruchuri Lavanya from Sri DAS, Arts & Science College, Sathyavedu. 
-This is my project submission for Future Ready Talent Internship.
+# ✨  Health Point ✨
 
-## Industry:
-Health
+This is a web based application developed for health related based website in india
 
-## Project Title:
-Health Point
-
-## Problem Statement/Opportunity:
-
-These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting. 
-
-## Project Description/Solution:
-- This is a medical system designed to manage the activities in the hospital. The new patients can request an appointment with the help of this website. 
-
-- The website confirms the appointment based on the availability of free slots for the respective doctors and the patient is informed. It is very important to maintain efficient software to handle the information of a hospital. 
-
-- This application provides a way to record this information and to access these in a simple way. Online Hospital Management Systems enables you to develop your organization and improve its effectiveness and quality of work. Managing the key processes efficiently is critical to the success of the hospital.
-
-- Since we are entering details of the patients electronically in the Hospital Management System, the data will be secured. Thus, processing information will be faster. It guarantees accurate maintenance of patient’s appointments details. 
-
-- It easily reduces the bookkeeping task and thus reduces the human effort and increases accuracy speed due to this pandemic. It will be easier for the doctors and patients to book the appointment as well as we can read the patient’s review. The website offers many services like Free Checkups, 24/7 Ambulance, Bed Facilities, etc.
-
-## Technologies Used
-
-Azure Web App Services, HTML, CSS, JavaScript
-
-<pre>I hope you guys loved the project!</pre>
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
+**Project Link** -
+**project demo video link** - 
+
+## Azure technologies used for Project
+
+- Static web apps
+- Azure Resource Manager
+
+## Features and Functionalities 😃
+
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- User can know about health information through this website.
+- Included the feedback Survey form to increase the scope of improvement 
+
+## Screenshots
+
+## Home -
+
+![Screenshot (1)](https://user-images.githubusercontent.com/118588237/208224291-08a624d2-af94-4b81-8a9a-b7abc9c2d984.png)
+
+
+### Services -
+
+![Screenshot (2)](https://user-images.githubusercontent.com/118588237/208224306-6a739845-2fd6-444c-81e3-64a776327181.png)
+   
+
+### About Us -
+
+![Screenshot (3)](https://user-images.githubusercontent.com/118588237/208224324-7bb5147e-4da6-4ed1-ab1f-0d786bf13519.png)
+
+
+### Doctors -
+
+![Screenshot (4)](https://user-images.githubusercontent.com/118588237/208224528-c3d8346b-6685-40ba-90d6-3a72f57ddc7f.png)
+
+
+### Book -
+
+![Screenshot (5)](https://user-images.githubusercontent.com/118588237/208224541-f4f78c2d-2e30-48ff-a9dd-abe9ba6830ae.png)
+
+
+### Review -         
+
+![Screenshot (6)](https://user-images.githubusercontent.com/118588237/208224550-d8ca7d40-326e-40cd-8025-4d32722d9193.png)
+
+
+### Blogs -
+
+![Screenshot (7)](https://user-images.githubusercontent.com/118588237/208224554-c9680dbc-31f7-48e3-90a1-669ccf95f203.png)
+
+
+
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
