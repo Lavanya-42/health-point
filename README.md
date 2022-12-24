@@ -1,8 +1,8 @@
-# ✨  Health Point ✨
+# ✨  one stop solution for any foodie ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for life style related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based foodie application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://lemon-tree-0911d7a00.2.azurestaticapps.net
@@ -11,54 +11,48 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
+- Azure Monitor
 - Azure Resource Manager
+
 
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- Has collection of many web pages including Home,Services,About,Resturants,Book,Review and Blogs for foodie.
+- User can know about foodie information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
 
 ## Home -
 
-![Screenshot (1)](https://user-images.githubusercontent.com/118588237/208224291-08a624d2-af94-4b81-8a9a-b7abc9c2d984.png)
-
+![Screenshot (8)](https://user-images.githubusercontent.com/118588237/209442949-f2849263-85ae-48fd-b5ac-7321d5e53f45.png)
 
 ### Services -
 
-![Screenshot (2)](https://user-images.githubusercontent.com/118588237/208224306-6a739845-2fd6-444c-81e3-64a776327181.png)
-   
+   ![Screenshot (9)](https://user-images.githubusercontent.com/118588237/209442964-4d71ef1b-cd87-4fa0-bce3-3c5fc47333a8.png)
 
 ### About Us -
 
-![Screenshot (3)](https://user-images.githubusercontent.com/118588237/208224324-7bb5147e-4da6-4ed1-ab1f-0d786bf13519.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/118588237/209442978-afc4f3c8-7384-4f12-99b1-7ca1ae2a5ff0.png)
 
+### Resturant -
 
-### Doctors -
+![Screenshot (11)](https://user-images.githubusercontent.com/118588237/209442986-08e75557-c113-4349-9d78-7f96ef3b8460.png)
 
-![Screenshot (4)](https://user-images.githubusercontent.com/118588237/208224528-c3d8346b-6685-40ba-90d6-3a72f57ddc7f.png)
+### Book now -     
 
+![Screenshot (12)](https://user-images.githubusercontent.com/118588237/209443008-dddf61ae-458b-43d1-9463-b325f7718aca.png)
 
-### Book -
+### Review -
 
-![Screenshot (5)](https://user-images.githubusercontent.com/118588237/208224541-f4f78c2d-2e30-48ff-a9dd-abe9ba6830ae.png)
-
-
-### Review -         
-
-![Screenshot (6)](https://user-images.githubusercontent.com/118588237/208224550-d8ca7d40-326e-40cd-8025-4d32722d9193.png)
-
+![Screenshot (13)](https://user-images.githubusercontent.com/118588237/209443021-1a680276-2992-42e1-b7e6-b8abda808826.png)
 
 ### Blogs -
 
-![Screenshot (7)](https://user-images.githubusercontent.com/118588237/208224554-c9680dbc-31f7-48e3-90a1-669ccf95f203.png)
-
-
+![Screenshot (14)](https://user-images.githubusercontent.com/118588237/209443069-dd8eb1d7-799c-4d46-ac5c-a8375ba0fe66.png)
 
 ## Tech Stack
 - HTML
