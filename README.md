@@ -6,7 +6,7 @@ This is a web based application developed for life style related based website i
 
 
 **Project Link** - https://lemon-tree-0911d7a00.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://youtu.be/5uRaI7RIyMA 
 
 ## Azure technologies used for Project
 
