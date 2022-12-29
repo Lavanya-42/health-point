@@ -12,8 +12,6 @@ This is a web based application developed for life style related based website i
 
 - Static web apps
 - Azure Monitor
-- Azure Resource Manager
-
 
 ## Features and Functionalities 😃
 
